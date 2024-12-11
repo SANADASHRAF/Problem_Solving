@@ -1,0 +1,14 @@
+G:\Leetcode75\Leetcode75\Leetcode75\bin\Debug\net8.0\Leetcode75.exe
+G:\Leetcode75\Leetcode75\Leetcode75\bin\Debug\net8.0\Leetcode75.deps.json
+G:\Leetcode75\Leetcode75\Leetcode75\bin\Debug\net8.0\Leetcode75.runtimeconfig.json
+G:\Leetcode75\Leetcode75\Leetcode75\bin\Debug\net8.0\Leetcode75.dll
+G:\Leetcode75\Leetcode75\Leetcode75\bin\Debug\net8.0\Leetcode75.pdb
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.GeneratedMSBuildEditorConfig.editorconfig
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfoInputs.cache
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfo.cs
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.csproj.CoreCompileInputs.cache
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.dll
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\refint\Leetcode75.dll
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.pdb
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\Leetcode75.genruntimeconfig.cache
+G:\Leetcode75\Leetcode75\Leetcode75\obj\Debug\net8.0\ref\Leetcode75.dll
