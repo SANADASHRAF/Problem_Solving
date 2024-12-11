@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Leetcode75\\Leetcode75\\Leetcode75\\Leetcode75.csproj": {}
+    "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\Leetcode75.csproj": {}
   },
   "projects": {
-    "G:\\Leetcode75\\Leetcode75\\Leetcode75\\Leetcode75.csproj": {
+    "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\Leetcode75.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Leetcode75\\Leetcode75\\Leetcode75\\Leetcode75.csproj",
+        "projectUniqueName": "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\Leetcode75.csproj",
         "projectName": "Leetcode75",
-        "projectPath": "G:\\Leetcode75\\Leetcode75\\Leetcode75\\Leetcode75.csproj",
+        "projectPath": "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\Leetcode75.csproj",
         "packagesPath": "C:\\Users\\top\\.nuget\\packages\\",
-        "outputPath": "G:\\Leetcode75\\Leetcode75\\Leetcode75\\obj\\",
+        "outputPath": "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
