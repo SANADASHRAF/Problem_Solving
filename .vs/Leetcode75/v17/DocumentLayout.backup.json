@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\Leetcode75\\LeetCode_75\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA3A1B3-3B96-40AB-A00D-D8200CA574BE}|Leetcode75\\Leetcode75.csproj|g:\\leetcode75\\leetcode_75\\leetcode75\\product-of-array-except-self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA3A1B3-3B96-40AB-A00D-D8200CA574BE}|Leetcode75\\Leetcode75.csproj|solutionrelative:leetcode75\\product-of-array-except-self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "product-of-array-except-self.cs",
-              "DocumentMoniker": "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\product-of-array-except-self.cs",
-              "RelativeDocumentMoniker": "Leetcode75\\product-of-array-except-self.cs",
-              "ToolTip": "G:\\Leetcode75\\LeetCode_75\\Leetcode75\\product-of-array-except-self.cs*",
-              "RelativeToolTip": "Leetcode75\\product-of-array-except-self.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:22:25.598Z",
-              "EditorCaption": ""
             }
           ]
         }
