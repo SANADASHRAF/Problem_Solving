@@ -7,6 +7,8 @@ namespace Leetcode75
         static void Main(string[] args)
         {
 
+
+
             //MergeStringAlternately p1= new MergeStringAlternately();
             //greatest_common_divisor_of_strings x=new greatest_common_divisor_of_strings();
             //Console.WriteLine( x.GcdOfStrings("ABCABC", "ABC") );
@@ -18,8 +20,8 @@ namespace Leetcode75
             //IList<bool> output = x.KidsWithCandies(candies, extraCandies);
             //Console.WriteLine(string.Join(", ", output));
 
-            can_place_flowers x= new can_place_flowers();
-            Console.WriteLine(x.CanPlaceFlowers([1, 0, 0, 0, 1],1));
+            //can_place_flowers x= new can_place_flowers();
+            //Console.WriteLine(x.CanPlaceFlowers([1, 0, 0, 0, 1],1));
 
 
         }
