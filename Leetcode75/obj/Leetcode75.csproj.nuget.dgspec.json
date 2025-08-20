@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\server egy\\Source\\Repos\\LeetCode\\Leetcode75\\Leetcode75.csproj": {}
+    "C:\\Users\\server egy\\source\\repos\\LeetCode\\Leetcode75\\Leetcode75.csproj": {}
   },
   "projects": {
-    "C:\\Users\\server egy\\Source\\Repos\\LeetCode\\Leetcode75\\Leetcode75.csproj": {
+    "C:\\Users\\server egy\\source\\repos\\LeetCode\\Leetcode75\\Leetcode75.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\server egy\\Source\\Repos\\LeetCode\\Leetcode75\\Leetcode75.csproj",
+        "projectUniqueName": "C:\\Users\\server egy\\source\\repos\\LeetCode\\Leetcode75\\Leetcode75.csproj",
         "projectName": "Leetcode75",
-        "projectPath": "C:\\Users\\server egy\\Source\\Repos\\LeetCode\\Leetcode75\\Leetcode75.csproj",
+        "projectPath": "C:\\Users\\server egy\\source\\repos\\LeetCode\\Leetcode75\\Leetcode75.csproj",
         "packagesPath": "C:\\Users\\server egy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\server egy\\Source\\Repos\\LeetCode\\Leetcode75\\obj\\",
         "projectStyle": "PackageReference",
