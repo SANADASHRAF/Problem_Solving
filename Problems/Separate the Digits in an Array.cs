@@ -8,7 +8,7 @@ namespace Problems
 {
     public class Separate_the_Digits_in_an_Array
     {
-        https://leetcode.com/problems/separate-the-digits-in-an-array/
+       // https://leetcode.com/problems/separate-the-digits-in-an-array/
         public int[] SeparateDigits(int[] nums)
         {
             List<int> result = new List<int>();
