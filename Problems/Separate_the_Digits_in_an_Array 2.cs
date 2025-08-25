@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problems
 {
-    public class Separate_the_Digits_in_an_Array
+    public class Separate_the_Digits_in_an_Array2
     {
         public int[] SeparateDigits(int[] nums)
         {
