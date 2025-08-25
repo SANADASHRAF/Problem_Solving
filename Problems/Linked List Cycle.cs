@@ -31,21 +31,21 @@ namespace Problems
 
         }
 
-        public bool HasCycle(ListNode head)
-        {
-            HashSet<ListNode> check = new HashSet<ListNode>();
-            while (head != null && head.next!=null )
-            {
-                if (check.Contains(head)) 
-                {
-                    return true;
-                }
-                check.Add(head);
-                head = head.next;
+        //public bool HasCycle(ListNode head)
+        //{
+        //    HashSet<ListNode> check = new HashSet<ListNode>();
+        //    while (head != null && head.next!=null )
+        //    {
+        //        if (check.Contains(head)) 
+        //        {
+        //            return true;
+        //        }
+        //        check.Add(head);
+        //        head = head.next;
 
-            }
-            return false;
-        }    
+        //    }
+        //    return false;
+        //}    
 
         public class ListNode
         {
