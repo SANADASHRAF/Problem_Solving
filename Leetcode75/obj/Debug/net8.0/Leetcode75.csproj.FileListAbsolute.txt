@@ -27,3 +27,22 @@ G:\Leetcode75\LeetCode_75\Leetcode75\obj\Debug\net8.0\refint\Leetcode75.dll
 G:\Leetcode75\LeetCode_75\Leetcode75\obj\Debug\net8.0\Leetcode75.pdb
 G:\Leetcode75\LeetCode_75\Leetcode75\obj\Debug\net8.0\Leetcode75.genruntimeconfig.cache
 G:\Leetcode75\LeetCode_75\Leetcode75\obj\Debug\net8.0\ref\Leetcode75.dll
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Leetcode75.exe
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Leetcode75.deps.json
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Leetcode75.runtimeconfig.json
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Leetcode75.dll
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Leetcode75.pdb
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Problems.dll
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\bin\Debug\net8.0\Problems.pdb
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.csproj.AssemblyReference.cache
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfoInputs.cache
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfo.cs
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.csproj.CoreCompileInputs.cache
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.sourcelink.json
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.csproj.Up2Date
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.dll
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\refint\Leetcode75.dll
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.pdb
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\Leetcode75.genruntimeconfig.cache
+C:\Users\server egy\source\repos\LeetCode\Leetcode75\obj\Debug\net8.0\ref\Leetcode75.dll
